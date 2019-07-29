@@ -24,6 +24,7 @@
     <application android:usesCleartextTraffic="true">
         <uses-library android:name="android.test.runner" />
     </application>
+ <!-- solved..... -->
 
     <!--
     The test declared in this instrumentation can be run via this command
